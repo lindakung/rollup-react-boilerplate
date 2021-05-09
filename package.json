@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.21",
     "react": "^16.8.1",
     "react-dom": "^16.8.1",
     "the-answer": "^1.0.0"
